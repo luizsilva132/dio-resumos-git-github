@@ -10,7 +10,8 @@ Repositórios para armazenar  resumos sobre Git e Github do curso Versoniamento 
 
  Aulas | Resumo |
 |------|--------|
-| Gravando Alterações no Repositório Local|[Resumo]
+| Aula 01 |[Resumo]
+| Aula 02|[Resumo]
 ()
 
 ```
